@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Last Pencil (Java)/*
+!/Last Pencil (Java)/task/
+/Last Pencil (Java)/task/*
+!/Last Pencil (Java)/task/src
+
+# Project exclude paths
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
